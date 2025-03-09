@@ -5,37 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1394302-d7e8-4c06-9982-cf833cdd5c13" name="Changes" comment="distributionManagement Nexus">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/control/UserRestControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/control/UserRestControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/services/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/services/IUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/spring/services/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserServiceImplMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserServiceImplMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserRepositoryMock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserServiceImplMock.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tn/esprit/spring/services/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/TimesheetDevopsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/TimesheetDevopsApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/control/UserRestControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/control/UserRestControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Contrat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Contrat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Departement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Departement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Employe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Employe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Entreprise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Entreprise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/Role.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/entities/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/services/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/services/IUserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/spring/services/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/spring/services/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-03-01T14-41-21_500.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2025-03-01T14-41-32_282.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.spring.services.UserServiceImplMockTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.spring.services.UserServiceImplMockTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.spring.services.UserServiceImplMockTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.spring.services.UserServiceImplMockTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tn/esprit/spring/services/UserRepositoryMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tn/esprit/spring/services/UserRepositoryMock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tn/esprit/spring/services/UserServiceImplMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tn/esprit/spring/services/UserServiceImplMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tn/esprit/spring/services/UserServiceImplMockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/timesheet-devops-1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/timesheet-devops-1.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/timesheet-devops-1.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/timesheet-devops-1.1.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.spring.services.UserServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.spring.services.UserServiceImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.spring.services.UserServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.spring.services.UserServiceImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/timesheet-devops-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/timesheet-devops-1.4.jar.original" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +36,12 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="mavenHome" value="Use Maven wrapper" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2FlF8KzIZEkggHz3fa1utD0bR5b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,33 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Work/workspace-intellij/timesheet-devops&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;0758f844400cb2e4f26b82397cd1a2b4&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Merging master",
+    "last_opened_file_path": "C:/Work/workspace-intellij/timesheet-devops",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "0758f844400cb2e4f26b82397cd1a2b4",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tn.esprit.spring.services" />
@@ -177,14 +152,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -243,11 +210,9 @@
       <workItem from="1695725497106" duration="659000" />
       <workItem from="1696066044591" duration="1516000" />
       <workItem from="1696107041398" duration="114000" />
-      <workItem from="1740405232285" duration="253000" />
-      <workItem from="1740408155277" duration="6478000" />
-      <workItem from="1741012199729" duration="862000" />
-      <workItem from="1741017627617" duration="341000" />
-      <workItem from="1741467157565" duration="976000" />
+      <workItem from="1740409927537" duration="4000" />
+      <workItem from="1740409954329" duration="7000" />
+      <workItem from="1741247236069" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="plugin 3.0.5">
       <created>1665242106708</created>

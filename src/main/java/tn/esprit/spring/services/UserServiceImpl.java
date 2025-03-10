@@ -1,5 +1,6 @@
 package tn.esprit.spring.services;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -16,12 +17,18 @@ public class UserServiceImpl implements IUserService {
     @Autowired
     UserRepository userRepository;
 
-    private static final Logger l = LogManager.getLogger(UserServiceImpl.class);
+    private final Logger l;
+
+    @Autowired
+    public UserServiceImpl(UserRepository userRepository) {
+        this.userRepository = userRepository;
+        this.l = LogManager.getLogger(UserServiceImpl.class);
+    }
 
     @Override
     public List<User> retrieveAllUsers() { 
         l.info("In retrieveAllUsers()");
-        List<User> users = null;
+        List<User> users = new ArrayList<>();
         try {
             users = userRepository.findAll();
             l.info("Users retrieved successfully");
